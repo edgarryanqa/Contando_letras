@@ -2,7 +2,7 @@ package contador;
 
 import java.util.Scanner;
 
-public class CountLetterA {
+public class CountLetter {
 
 	
 		public static void main(String[] args) { // Método principal
@@ -19,7 +19,6 @@ public class CountLetterA {
 	        	// Inicia um loop para percorrer cada caractere da frase
 	            if (frase.charAt(i) == 'a' || frase.charAt(i) == 'A') { 
 	            	// Verifica se o caractere atual é 'a' ou 'A'
-	            	
 	                count++; // Incrementa o contador se o caractere for 'a' ou 'A'
 	            }
 	        }
