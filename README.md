@@ -24,4 +24,4 @@ Este projeto em Java tem como objetivo contar o número de ocorrências da letra
 
 12. `System.out.println("A quantidade de letras 'a' na frase é: " + count);`: Exibe a quantidade de letras 'a' na frase.
 
-Este projeto é uma aplicação simples que demonstra como utilizar a classe `Scanner` para interagir com o usuário e como percorrer uma string para contar o número de ocorrências de um caractere específico.
+
